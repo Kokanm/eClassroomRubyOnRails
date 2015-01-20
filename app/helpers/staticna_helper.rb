@@ -1,0 +1,2 @@
+module StaticnaHelper
+end

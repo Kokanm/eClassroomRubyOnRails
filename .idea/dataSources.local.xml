@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="km8390_b4" uuid="47c0c220-fbac-4561-9f9e-c7eff5af2db2">
+      <secret-storage>master_key</secret-storage>
+      <user-name>km8390</user-name>
+      <schema-pattern>km8390_b4.*</schema-pattern>
+      <default-schemas>km8390_b4.*</default-schemas>
+    </data-source>
+  </component>
+</project>
